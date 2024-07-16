@@ -50,9 +50,5 @@ This Python script provides a tool for interactively labeling raw images. The la
 ## Error Handling
 - The script includes error handling for loading invalid images, saving issues, and other operations.
 
-## Bonus Points
-- Implemented interactive labeling.
-- Error handling for invalid file formats or missing labeled images.
-
 ## Notes
 - This script uses OpenCV for image processing and Tkinter for the GUI.
